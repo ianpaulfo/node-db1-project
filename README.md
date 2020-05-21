@@ -1,4 +1,5 @@
 # Database Queries
+node db1 project
 
 ## Topics
 
